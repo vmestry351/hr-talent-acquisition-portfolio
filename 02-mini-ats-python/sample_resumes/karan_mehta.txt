@@ -1,0 +1,19 @@
+Karan Mehta
+karan.mehta@example.com | +91 99000 44444
+
+SUMMARY
+Senior data analyst with 11 years of experience leading analytics and reporting for banking clients.
+
+EXPERIENCE
+Senior Data Analyst, FinEdge Solutions    Jan 2018 - Present
+- Lead a team of 4 analysts building Tableau and Power BI dashboards.
+- Advanced SQL, Python and statistics for risk and customer analysis.
+- Excel models, pivot tables and reporting for senior management.
+Data Analyst, Metro Bank    Jun 2015 - Dec 2017
+
+EDUCATION
+MBA (Finance), 2015
+B.Com, 2013
+
+SKILLS
+SQL, Excel, Tableau, Power BI, Python, Statistics, Google Sheets, data visualization

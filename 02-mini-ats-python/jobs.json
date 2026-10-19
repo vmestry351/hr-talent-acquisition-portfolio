@@ -1,0 +1,69 @@
+{
+  "settings": {
+    "select_threshold": 70,
+    "hold_threshold": 55,
+    "min_words": 150,
+    "accept_pursuing": true
+  },
+  "skills": {
+    "excel": ["excel", "advanced excel", "ms excel", "pivot table", "pivot tables", "vlookup", "xlookup"],
+    "sql": ["sql", "mysql", "postgresql", "sql server", "t-sql"],
+    "power bi": ["power bi", "powerbi"],
+    "tableau": ["tableau"],
+    "python": ["python", "pandas", "numpy"],
+    "statistics": ["statistics", "statistical analysis", "regression", "hypothesis testing"],
+    "data visualization": ["data visualization", "data visualisation", "dashboard", "dashboards", "power bi", "tableau", "charts"],
+    "google sheets": ["google sheets", "google sheet"],
+    "ms office": ["ms office", "microsoft office", "ms word", "ms excel", "ms powerpoint"],
+    "communication": ["communication", "communicator", "public speaking", "presentation skills"],
+    "sales": ["sales", "selling", "business development"],
+    "customer handling": ["customer handling", "customer service", "customer support", "client handling", "customer relationship"],
+    "crm": ["crm", "salesforce", "zoho crm", "hubspot"],
+    "lead generation": ["lead generation", "lead gen", "prospecting"],
+    "negotiation": ["negotiation", "negotiating"],
+    "cold calling": ["cold calling", "cold calls", "outbound calling"],
+    "recruitment": ["recruitment", "recruiting", "talent acquisition", "hiring"],
+    "screening": ["resume screening", "screening", "shortlisting"],
+    "interview scheduling": ["interview scheduling", "scheduling interviews", "interview coordination"],
+    "linkedin": ["linkedin", "linkedin recruiter"],
+    "onboarding": ["onboarding", "induction"]
+  },
+  "jobs": {
+    "junior_data_analyst": {
+      "title": "Junior Data Analyst",
+      "min_experience": 0,
+      "max_experience": 2,
+      "min_education": "bachelor",
+      "must_have_skills": ["excel", "sql", "data visualization"],
+      "nice_to_have_skills": ["power bi", "tableau", "python", "statistics", "google sheets"],
+      "title_keywords": ["data analyst", "data analysis", "business analyst", "mis", "reporting analyst", "analytics"],
+      "must_have_min_ratio": 0.6,
+      "locations": [],
+      "location_required": false
+    },
+    "sales_executive": {
+      "title": "Sales Executive",
+      "min_experience": 0,
+      "max_experience": 3,
+      "min_education": "bachelor",
+      "must_have_skills": ["sales", "communication", "customer handling"],
+      "nice_to_have_skills": ["crm", "lead generation", "negotiation", "excel", "cold calling"],
+      "title_keywords": ["sales executive", "sales", "business development", "inside sales"],
+      "must_have_min_ratio": 0.6,
+      "locations": [],
+      "location_required": false
+    },
+    "hr_intern": {
+      "title": "HR Intern (Talent Acquisition)",
+      "min_experience": 0,
+      "max_experience": 1,
+      "min_education": "bachelor",
+      "must_have_skills": ["recruitment", "communication", "ms office"],
+      "nice_to_have_skills": ["excel", "linkedin", "screening", "interview scheduling", "google sheets", "onboarding"],
+      "title_keywords": ["hr", "human resources", "talent acquisition", "recruitment", "recruiter"],
+      "must_have_min_ratio": 0.6,
+      "locations": [],
+      "location_required": false
+    }
+  }
+}
