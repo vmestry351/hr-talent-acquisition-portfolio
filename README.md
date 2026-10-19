@@ -16,7 +16,9 @@ Projects by **Vinayak Mestry**: B.Tech in AI & Data Science, Talent Acquisition 
 | 3 | [Talent Acquisition Toolkit](03-ta-toolkit) | Job descriptions, screening scorecards, structured interview kit, sourcing plan | Word documents |
 
 ## Portfolio website
-The one-page portfolio site is in [`docs/index.html`](docs). To publish it free with GitHub Pages: **Settings > Pages > Branch: main, folder: /docs**.
+**Live site:** https://vmestry351.github.io/hr-talent-acquisition-portfolio/
+
+The one-page portfolio (interactive, light and dark theme) is in [`docs/index.html`](docs). It is served by GitHub Pages from the `/docs` folder (**Settings > Pages > Branch: main, folder: /docs**).
 
 ## Skills demonstrated
 Recruitment lifecycle, candidate sourcing and Boolean search, resume screening and scoring, structured interviewing, recruitment metrics (time-to-hire, offer acceptance rate, source of hire), Excel, Python, process automation and responsible, human-reviewed use of screening tools.
